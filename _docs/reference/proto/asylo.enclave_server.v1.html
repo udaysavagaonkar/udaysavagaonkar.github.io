@@ -1,0 +1,42 @@
+---
+title: Enclave gRPC Server Configuration
+overview: API to configure a basic enclave gRPC server.
+location: https://asylo.dev/docs/reference/proto/grpc/asylo.enclave_server.v1.html
+layout: protoc-gen-docs
+redirect_from: /docs/reference/proto/status.html
+redirect_from: /docs/reference/proto/identity/identity.html
+redirect_from: /docs/reference/proto/identity/enclave_assertion_authority_config.html
+redirect_from: /docs/reference/proto/enclave.html
+redirect_from: /docs/reference/proto/grpc/enclave_server.html
+number_of_entries: 1
+---
+<p>This package defines the messages for communicating with an Asylo enclave&rsquo;s
+entry-points: <a href="#EnclaveConfig">initialization</a>, (re-entrant)
+execution <a href="#EnclaveInput">input</a> and
+<a href="#EnclaveOutput">output</a>, and <a href="#EnclaveFinal">finalization</a>.</p>
+
+<h2 id="ServerConfig">ServerConfig</h2>
+<section>
+<p>Configuration passed to an enclave gRPC server during initialization.</p>
+
+<table class="message-fields">
+<thead>
+<tr>
+<th>Field</th>
+<th>Type</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr id="ServerConfig.address">
+<td><code>address</code></td>
+<td><code>string</code></td>
+<td>
+<p>The server&rsquo;s address, which is either an IPv6 address or a Unix domain
+socket.</p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</section>

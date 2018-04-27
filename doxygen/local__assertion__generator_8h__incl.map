@@ -1,0 +1,7 @@
+<map id="asylo/identity/sgx/local_assertion_generator.h" name="asylo/identity/sgx/local_assertion_generator.h">
+<area shape="rect" id="node2" href="$enclave__assertion__generator_8h.html" title="asylo/identity/enclave\l_assertion_generator.h" alt="" coords="1982,95,2137,136"/>
+<area shape="rect" id="node4" href="$enclave__assertion__authority_8h.html" title="asylo/identity/enclave\l_assertion_authority.h" alt="" coords="1240,184,1391,225"/>
+<area shape="rect" id="node24" href="$status_8h.html" title="asylo/util/status.h" alt="" coords="1417,370,1542,397"/>
+<area shape="rect" id="node29" href="$statusor_8h.html" title="asylo/util/statusor.h" alt="" coords="2147,281,2283,307"/>
+<area shape="rect" id="node30" href="$logging_8h.html" title="asylo/util/logging.h" alt="" coords="2151,370,2282,397"/>
+</map>

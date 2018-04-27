@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 484.21 559.12">
+  <defs>
+    <style>
+      .itop {
+          fill: #29b6f6;
+      }
+      .iright, .oright {
+          fill: #0277bd;
+      }
+      .ileft, .oleft {
+          fill: #039be5;
+      }
+      .otop {
+          fill: #29e3f6;
+      }
+      .otop, .oright, .oleft {
+          opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <title>Asylo Logo</title>
+  <g id="Cubes" transform="translate(40, 46.19)">
+      <polygon class="itop" id="innertop" points="29.75 134.4 87.36 167.72 202.11 234.08 316.85 167.72 374.46 134.4 202.11 34.72 29.75 134.4"/>
+      <polygon class="iright" id="innerright" points="202.11 234.08 202.11 433.43 374.46 333.75 374.46 134.4 316.85 167.72 202.11 234.08"/>
+      <polygon class="ileft" id="innerleft" points="29.75 134.4 29.75 333.75 202.11 433.43 202.11 234.08 87.36 167.72 29.75 134.4"/>
+      <polygon class="otop" id="outertop" points="0 116.88 67.56 155.95 202.11 233.76 336.65 155.95 404.21 116.88 202.11 0 0 116.88"/>
+     <polygon class="oright" id="outerright" points="202.11 233.76 202.11 467.52 404.21 350.64 404.21 116.88 336.65 155.95 202.11 233.76"/>
+      <polygon class="oleft" id="outerleft" points="0 116.88 0 350.64 202.11 467.52 202.11 233.76 67.56 155.95 0 116.88"/>
+</g>
+</svg>
